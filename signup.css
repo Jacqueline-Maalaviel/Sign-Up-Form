@@ -1,0 +1,27 @@
+
+.head{
+    background-color: rgb(255, 175, 1);
+}
+#form{
+    display: block;
+    background-color: rgb(39, 36, 39);
+    color: rgb(231, 212, 41);
+    
+}
+#options{
+    background-color: rgb(255, 175, 1);
+}
+#bb{background-color: rgb(62, 184, 62);
+    color: white;
+    border-style: none;
+}
+#ll{background-color: rgb(196, 58, 58);
+    color: white;
+    border-style: none;
+}
+.inputs{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
